@@ -1,5 +1,7 @@
 # As per the problem statement given I have divided the complete app in mainly 3 parts :
 
+Live Link : https://main--aayush-weather-widget.netlify.app/
+
 1. First is the Weather WIdget that will be the main body of our app that wil contain all the other components in it
 
 2. Second one is the Weather Form that weather form is basically the header where we have some functionalities like Dropdown,
